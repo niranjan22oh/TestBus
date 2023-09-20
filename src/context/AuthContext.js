@@ -48,7 +48,7 @@ const veryIntensiveTask = async (taskDataArguments) => {
       
       await fetchCoordinates();
       
-      await BackgroundService.updateNotification({ taskDesc: 'YOUR_NPTIFICATION ' + i }); 
+      await BackgroundService.updateNotification({ taskDesc: 'YOUR_NOTIFICATION ' + i }); 
       await sleep(delay);
       
     }
