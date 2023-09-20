@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88493773724",
+    "project_id": "testbus-a3e0d",
+    "storage_bucket": "testbus-a3e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88493773724:android:3648bec2b8e64cc8856e59",
+        "android_client_info": {
+          "package_name": "com.testbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88493773724-ph3lk5t26filqctfg3k7d93pirb5irpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testbus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "88493773724-iljbu27qjhc67mcvrn9943m7gti2oh1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9SrNDeWmrK-iVMR7tupgaARnQt_auuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88493773724-iljbu27qjhc67mcvrn9943m7gti2oh1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
